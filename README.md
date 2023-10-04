@@ -3,5 +3,6 @@
 - https://patents.google.com/patent/US1981583A/en
 
 Place raw unpasteurized fruits, raw plant matter, raw fruit preservers into an irradiation chamber described in the expired patents to increase food safety.
+-------------------------------
 
-americium and beryllium
+americium and beryllium radiation source
