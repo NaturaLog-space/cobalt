@@ -5,5 +5,5 @@
 Place raw unpasteurized fruits, raw plant matter, raw fruit preservers into an irradiation chamber described in the expired patents to increase food safety.
 -------------------------------
 
-- americium and beryllium radiation source found in smoke detectors
+- americium and beryllium or magnesium radiation source found in smoke detectors
 - irradiate cobalt 59 with neutrons from the neutron source
